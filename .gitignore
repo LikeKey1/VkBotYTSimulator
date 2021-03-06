@@ -6,5 +6,5 @@
 *.jar
 *.ear
 
-*.properties
-*.xml
+**.properties
+**.xml
